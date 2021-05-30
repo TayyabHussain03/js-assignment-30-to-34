@@ -49,3 +49,13 @@
 // else{
 //     alert("Last Fifteen Days of the Month")
 // }
+
+
+// **********QUESTION 6**********
+
+// var date = new Date()
+// console.log(date)
+// var n = date.getTime()
+// console.log("Elapse Time From 1970: " + n)
+// var minutes = n/60000
+// console.log("Elapse Minutes From 1970: " + minutes)
