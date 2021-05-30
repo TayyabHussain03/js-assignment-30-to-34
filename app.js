@@ -59,3 +59,18 @@
 // console.log("Elapse Time From 1970: " + n)
 // var minutes = n/60000
 // console.log("Elapse Minutes From 1970: " + minutes)
+
+
+// **********QUESTION 7**********
+
+// var date = new Date()
+// console.log(date)
+// var time = date.getHours()
+// console.log(time)
+
+// if (time >= 0 && time < 12) {
+//     alert("It's AM")
+// }
+// else if (time >= 12 && time < 24) {
+//     alert("It's PM")
+// }
