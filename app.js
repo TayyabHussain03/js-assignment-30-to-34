@@ -74,3 +74,10 @@
 // else if (time >= 12 && time < 24) {
 //     alert("It's PM")
 // }
+
+
+// **********QUESTION 8**********
+
+// var date = new Date();
+// date.setDate(0);
+// console.log(date)
