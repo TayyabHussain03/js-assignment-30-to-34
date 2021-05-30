@@ -35,3 +35,17 @@
 // else {
 //     alert("Today is not Fun Day")
 // }
+
+
+// **********QUESTION 5**********
+
+// var date = new Date()
+// console.log (date.getDate())
+
+// if(date <= "16") {
+//     alert("First Fifteen Days of the Month")
+// }
+
+// else{
+//     alert("Last Fifteen Days of the Month")
+// }
