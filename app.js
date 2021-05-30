@@ -20,3 +20,18 @@
 // var theDay = now.getDay();
 // var nameOfToday = dayNames[theDay];
 // console.log(nameOfToday)
+
+
+// **********QUESTION 4**********
+
+// var dayNames = ["Sunday", "Monday", "Tuesday", "Wednesday", "Thursday", "Friday", "Saturday"];
+// var now = new Date();
+// var theDay = now.getDay();
+// var nameOfToday = dayNames[theDay];
+
+// if (nameOfToday = "Saturday" || "Sunday") {
+//     alert("Today is Fun Day")
+// }
+// else {
+//     alert("Today is not Fun Day")
+// }
