@@ -91,3 +91,12 @@
 // var differenceInDays = (difference / (1000 * 3600 * 24) / 365)
 // differenceInDays = Math.floor(differenceInDays)
 // console.log(differenceInDays + " day passed from 1st Ramadan 2021")
+
+
+// **********QUESTION 10**********
+
+// var currentDate = new Date();
+// var currentDateTime = currentDate.getTime() / 1000;
+// var Year2021 = new Date("01 January 2021").getTime() / 1000;
+// document.write("On reference date " + currentDate);
+// document.write("<h4>" + (currentDateTime - Year2021) + " seconds passed since the begining of 2021" + "</h4>");
