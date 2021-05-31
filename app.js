@@ -81,3 +81,13 @@
 // var date = new Date();
 // date.setDate(0);
 // console.log(date)
+
+
+// **********QUESTION 9**********
+
+// var date1 = new Date("14 May 2021");
+// var date2 = new Date();
+// var difference = date2.getTime() - date1.getDay();
+// var differenceInDays = (difference / (1000 * 3600 * 24) / 365)
+// differenceInDays = Math.floor(differenceInDays)
+// console.log(differenceInDays + " day passed from 1st Ramadan 2021")
