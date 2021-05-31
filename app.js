@@ -117,3 +117,12 @@
 // current.setFullYear(current.getFullYear()-100);
 // document.write("<div>","100 years ago, it was "+current+ "</div>");
 
+
+//**********QUESTION 13**********
+
+// var user = +prompt("Enter Your Age");
+// var abc = new Date().getFullYear();
+// var x = abc-user;
+// document.write("<div>","Your age is "+user+ "</div>");
+// document.write("<div>","Your birth year is "+x+ "</div>");
+
