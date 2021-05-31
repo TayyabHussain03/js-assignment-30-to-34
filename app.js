@@ -100,3 +100,11 @@
 // var Year2021 = new Date("01 January 2021").getTime() / 1000;
 // document.write("On reference date " + currentDate);
 // document.write("<h4>" + (currentDateTime - Year2021) + " seconds passed since the begining of 2021" + "</h4>");
+
+
+//**********QUESTION 11**********
+
+// var current = new Date();
+// document.write("<div>","Current Date "+current+ "</div>");
+// current.setHours(current.getHours()-1);
+// document.write("<div>","1 hour ago, it was "+current+ "</div>");
